@@ -14,3 +14,4 @@
 - what is nunjucks? what is a templating language?
 - do stuff
 - link your github repo to netlify
+(optional) - add netlify cms
