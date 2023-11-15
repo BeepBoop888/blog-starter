@@ -8,6 +8,9 @@
       - what is a scoped @ package?
       - what is 11ty?
       - what are node modules?
+      - package.json & package-lock.json
 - install tailwind
+- settings -> emmet -> add njk
+- what is nunjucks? what is a templating language?
 - do stuff
 - link your github repo to netlify
