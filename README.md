@@ -4,6 +4,10 @@
 - clone this repo
 - install node.js
 - follow the 11ty getting started docs https://www.11ty.dev/docs/get-started/
+      - what is npm?
+      - what is a scoped @ package?
+      - what is 11ty?
+      - what are node modules?
 - install tailwind
 - do stuff
 - link your github repo to netlify
