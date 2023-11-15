@@ -1,7 +1,7 @@
 - create a github account
 - clone this repo
 - install node.js
-- install 11ty
+- follow the 11ty getting started docs https://www.11ty.dev/docs/get-started/
 - install tailwind
 - do stuff
 - link your github repo to netlify
