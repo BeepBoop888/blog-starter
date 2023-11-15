@@ -1,5 +1,6 @@
 - create a github account
 - install VS Code
+- new terminal [Ctrl + Shift + `]
 - clone this repo
 - install node.js
 - follow the 11ty getting started docs https://www.11ty.dev/docs/get-started/
